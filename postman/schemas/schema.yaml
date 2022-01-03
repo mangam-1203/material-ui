@@ -1,4 +1,4 @@
-#%RAML 1.1
+#%RAML 1.2
 title: 'vgfd'
 version: 'gevg'
 baseUri: http://localhost:3000
